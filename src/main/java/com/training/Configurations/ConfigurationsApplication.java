@@ -21,7 +21,7 @@ public class ConfigurationsApplication {
 		logger.info(appConfigurations.getServerPort());
 		logger.info(appConfigurations.getIntegrationServicUrl());
 
-		System.out.println("Ciao sono Carlo e ho modificato il tuo codice! Buahahahaha");
+		System.out.println("Ciao sono Nessuno e ho beccato il tuo occhio! Buahaha");
 	}
 
 }
