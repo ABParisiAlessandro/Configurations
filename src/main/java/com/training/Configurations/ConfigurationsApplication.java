@@ -20,6 +20,8 @@ public class ConfigurationsApplication {
 
 		logger.info(appConfigurations.getServerPort());
 		logger.info(appConfigurations.getIntegrationServicUrl());
+
+		System.out.println("Ciao sono Carlo e ho modificato il tuo codice! Buahahahaha");
 	}
 
 }
